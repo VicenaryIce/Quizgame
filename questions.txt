@@ -1,0 +1,10 @@
+How many planets are in the solar system?,10,8,9,7.5,2
+How many states are there in America?,43,49,50,13,3
+What is the capital of Germany?,Berlin,Amsterdam,Hamburg,Munich,1
+What was New York's original name?,York,New City,New Amsterdam,Yorktown,3
+Which year did the Berlin wall fall?,1989,1960,1990,1975,1
+What year was the first iPhone released in?,2005,2013,2007,2009,3
+When did World War 2 start and end?,1945 to 1954,1939 to 1942,1944 to 1951,1939 to 1945,4
+What is the collective name for a group of crows?,A flock,A murder,A flurry,A cult,2
+Which country drinks the most coffee per person?,USA,Italy,Finland,Colombia,3
+Which country is most well known for their tulip flowers?,Germany,Belgium,Netherlands,Luxemburg,3
